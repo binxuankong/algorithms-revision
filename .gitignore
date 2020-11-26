@@ -1,4 +1,6 @@
 .DS_Store
 *~
+*.dSYM
 */.DS_Store
 */*~
+*/Contents
