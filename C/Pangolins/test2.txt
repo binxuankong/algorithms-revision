@@ -1,0 +1,11 @@
+question: Does it have a tail?
+question: Does it chase mice?
+object: a/an/the cat
+question: Is it long?
+object: a/an/the Dick
+object: a/an/the Dave
+question: Is it edible?
+question: Does it have meat on it?
+object: a/an/the pizza
+object: a/an/the biscuit
+object: a pangolin

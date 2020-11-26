@@ -1,0 +1,15 @@
+MAX 10
+NODE 1 one
+EDGE 1 2
+EDGE 1 3
+EDGE 1 1
+NODE 3 two
+EDGE 3 5
+EDGE 3 1
+NODE 5 three
+EDGE 5 7
+EDGE 5 1
+NODE 7 four
+EDGE 7 7
+NODE 9 five
+NODE 2 six

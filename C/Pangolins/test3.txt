@@ -1,0 +1,5 @@
+question: Does it have a tail?
+object: a pangolin
+question: Is it edible?
+object: a biscuit
+object: a/an/the Dave

@@ -1,0 +1,26 @@
+#!/bin/bash
+set -v
+java StreetOrder
+java StreetOrder oneoddoneeven.txt
+java StreetOrder doesnotexist.txt output.txt
+java StreetOrder oneoddoneeven.txt ../randomdirectory/output.txt
+java StreetOrder
+java StreetOrder null.txt output.txt
+cat oneoddnoeven.txt
+java StreetOrder oneoddnoeven.txt oneoddnoeven-sorted.txt
+cat oneoddnoeven-sorted.txt
+cat oneoddoneeven.txt
+java StreetOrder oneoddoneeven.txt oneoddoneeven-sorted.txt
+cat oneoddoneeven-sorted.txt
+cat twooddoneeven.txt
+java StreetOrder twooddoneeven.txt twooddoneeven-sorted.txt
+cat twooddoneeven-sorted.txt
+cat twooddtwoeven.txt
+java StreetOrder twooddtwoeven.txt twooddtwoeven-sorted.txt
+cat twooddtwoeven-sorted.txt
+cat threeoddtwoeven.txt
+java StreetOrder threeoddtwoeven.txt threeoddtwoeven-sorted.txt
+cat threeoddtwoeven-sorted.txt
+cat threeoddthreeeven.txt
+java StreetOrder threeoddthreeeven.txt threeoddthreeeven-sorted.txt
+cat threeoddthreeeven-sorted.txt

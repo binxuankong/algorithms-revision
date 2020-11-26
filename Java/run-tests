@@ -1,0 +1,6 @@
+#!/bin/bash
+set -v
+java Anagrams abc
+java Anagrams 12345
+java Anagrams jack
+java Anagrams hello

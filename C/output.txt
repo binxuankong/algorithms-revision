@@ -1,0 +1,2 @@
+hELLO wORLD!
+Read 14 characters in total,  8 converted to upper-case,  2 to lower-case

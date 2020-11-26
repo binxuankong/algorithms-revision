@@ -1,0 +1,3 @@
+question: Does it have a tail?
+object: a pangolin
+object: a/an/the Pete
